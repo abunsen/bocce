@@ -14,7 +14,8 @@
     "exponent": "^8.0.6",
     "lodash": "^4.13.1",
     "react": "15.2.1",
-    "react-native": "github:exponentjs/react-native#sdk-8.0.1"
+    "react-native": "github:exponentjs/react-native#sdk-8.0.1",
+    "react-native-button": "^1.6.0"
   },
   "eslintConfig": {
     "extends": "exponent"
